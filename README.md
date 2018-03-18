@@ -30,6 +30,11 @@ CSVファイルの内容を変更することで様々な質問を作成する�
     - ファイル名: assets/question/question.csv
     - 質問はランダムに表示しますので、カテゴリ毎に6つ以上の質問を用意してください。
 
+## デモサイト
+
+コロコロ相談室のデモサイト  
+<https://korokorodice.github.io/>
+
 ## システム構成
 本アプリは、ハイブリッドアプリ開発ツールである[Ionic Framework](https://ionicframework.com/framework)の「ionic v3.20.0」を利用して開発されています。  
 ソースコードをビルドすることで、iPhone/iPad、Andoroid, PC(Webサイト)等の様々な環境で実行することが可能です。
