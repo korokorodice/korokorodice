@@ -1,0 +1,36 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{title}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-item>
+      <div style="text-align:center">
+        <img src="assets/images/logo.png" alt="logo" width=200>
+      </div>
+    </ion-item>
+
+  <ion-col text-center>
+    <div style="text-align:center; font-size:100%;">
+      {{subtitle}}
+    </div>
+  </ion-col>
+
+  <ion-list>
+    <ion-list-header>
+      <h1>{{category}}</h1>
+    </ion-list-header>
+
+    <ion-item *ngFor="let ca of category_list; let ii = index" [navPush]="'DetailsPage'" [navParams]="{index:ii, category:ca.category}">
+      <ion-thumbnail item-left>
+        <img src={{images[ii]}}>
+      </ion-thumbnail>
+      <h2>{{ca.category}}</h2>
+    </ion-item>
+  </ion-list>
+
+  <ion-item text-center>
+    <button ion-button full large [navPush]="'DicePage'">サイコロを振る</button>
+  </ion-item>
+</ion-content>
