@@ -46,7 +46,7 @@ CSVファイルの内容を変更することで様々な質問を作成する�
 - [陣内 一樹](https://www.facebook.com/messages/t/kazuki.jinnouchi)
 - [中村 愛](https://www.facebook.com/ai0627)
 - [野田 駆](https://www.facebook.com/kakeru.noda.35)
-- [小俣 博司](https://www.facebook.com/messages/t/op.homata)
+- [小俣 博司](https://www.facebook.com/op.homata)
 
 ## ライセンス
 
