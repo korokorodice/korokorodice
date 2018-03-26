@@ -42,8 +42,8 @@ CSVファイルの内容を変更することで様々な質問を作成する�
 
 ## 開発チーム
 - [山田 紗弥](https://www.facebook.com/profile.php?id=100010109380381)
-- [山田 智翔](https://www.facebook.com/messages/t/yamada.chisho)
-- [陣内 一樹](https://www.facebook.com/messages/t/kazuki.jinnouchi)
+- [山田 智翔](https://www.facebook.com/yamada.chisho)
+- [陣内 一樹](https://www.facebook.com/kazuki.jinnouchi)
 - [中村 愛](https://www.facebook.com/ai0627)
 - [野田 駆](https://www.facebook.com/kakeru.noda.35)
 - [小俣 博司](https://www.facebook.com/op.homata)
